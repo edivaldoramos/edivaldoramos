@@ -12,6 +12,6 @@ In **Go**, I've worked with frameworks like **Gin** and **Fiber**.
 
 I'm also familiar with **Docker** and have some experience with **Kubernetes**.
 
-🌱 Currently, I’m learning **ReactJS** and **NextJS**.
+🌱 Currently, I’m learning **ReactJS**.
 
 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/edivaldoramos/)
