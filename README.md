@@ -1,17 +1,15 @@
-## Hi 👋
+Hi 👋
 
-✨ I'm a Computer Science graduate and a software developer with over 8 years of experience, focusing on building scalable microservices using **Java** and **Go**.
+✨ I'm a Computer Science graduate and a software developer with almost 10 years of experience, specializing in building scalable microservices with Java, Kotlin, and Go.
 
-👨‍💻 I love crafting cloud-ready applications that maximize resource efficiency through profiling for performance optimization.
+👨‍💻 I enjoy designing cloud-ready applications that are efficient and reliable, focusing on performance optimization and resource profiling, mainly on GCP and AWS.
 
-I have experience with both **SQL** and **NoSQL** databases, as well as **Spring** services with **Java 8+**. 
+💾 I have experience with both SQL and NoSQL databases, and I work extensively with Spring across Java 8, 17, and 21. In Go, I've built applications using frameworks like Gin and Fiber.
 
-In **Go**, I've worked with frameworks like **Gin** and **Fiber**.
+🔨 My work includes developing REST APIs, gRPC services, and event-driven systems with messaging, always prioritizing clean code and automated testing.
 
-🔨 I enjoy creating **REST** **APIs**, **gRPC**, and **event-driven** systems (messaging), along with writing automated tests.
+🐳 I’m familiar with Docker and have practical experience with Kubernetes, enabling scalable and maintainable deployments.
 
-I'm also familiar with **Docker** and have some experience with **Kubernetes**.
-
-🌱 Currently, I’m learning **ReactJS**.
+🌱 Currently, I’m exploring ReactJS to expand my full-stack development skills.
 
 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/edivaldoramos/)
